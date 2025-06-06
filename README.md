@@ -22,8 +22,8 @@ With a strong foundation in SQL, Tableau, Excel, and Agile delivery, I work at t
 📚 Published research on cardiac prediction models @ ICMISC 2020
   
 ## **🤝 Let’s Connect!**
-**🔗 LinkedIn –** [Saurabh Patil](https://www.linkedin.com/in/saurabh-patil18/)\
-**🐙 GitHub –** [Saurabh-patil18](https://github.com/Saurabh-patil18)\
+**🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-patil18/)**\
+**🐙 [GitHub](https://github.com/Saurabh-patil18)**\
 **📧 saurabhpatil1806@gmail.com**
   
 <!--
