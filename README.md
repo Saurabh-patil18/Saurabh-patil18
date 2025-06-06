@@ -10,7 +10,7 @@ With a strong foundation in SQL, Tableau, Excel, and Agile delivery, I work at t
 **Analytics and Visualization:** MS Excel, Tableau, ETL, Data Cleaning & Modeling\
 **Project Tools:** JIRA, ServiceNow, MS Project, Agile & Scrum, Workflow Diagrams\
 **Business Analysis:** BRD, Use Cases, SOP Documentation.\
-**Process Excellence:** Six Sigma (Green Belt), Lean, ERP Concepts, Forecasting Models, SIPOC, FMEA, VSM.\
+**Process Excellence:** Six Sigma (Green Belt), Lean, ERP Concepts, Forecasting Models, SIPOC, FMEA, VSM.
   
 ## **📌 Highlights**
   
@@ -19,12 +19,12 @@ With a strong foundation in SQL, Tableau, Excel, and Agile delivery, I work at t
 🧪 Applied statistical forecasting to minimize error in mobile phone demand predictions\
 🛍️ Reduced campus store wait times by 30% via lean process recommendations\
 ❤️ Achieved 95.25% accuracy in a heart disease prediction model using Deep Learning\
-📚 Published research on cardiac prediction models @ ICMISC 2020\
+📚 Published research on cardiac prediction models @ ICMISC 2020
   
 ## **🤝 Let’s Connect!**
-**🔗 LinkedIn –** Saurabh Patil\
-**🐙 GitHub –** Saurabh-patil18\
-**📧 saurabhpatil1806@gmail.com**\
+**🔗 LinkedIn –** [Saurabh Patil](https://www.linkedin.com/in/saurabh-patil18/)\
+**🐙 GitHub –** [Saurabh-patil18](https://github.com/Saurabh-patil18)\
+**📧 saurabhpatil1806@gmail.com**
   
 <!--
 **Saurabh-patil18/Saurabh-patil18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
