@@ -7,10 +7,10 @@ With a strong foundation in SQL, Tableau, Excel, and Agile delivery, I work at t
 ## **🔧 Tech Stack & Tools**
   
 **Languages & DB:** SQL, Python, MySQL, DB2\
-**Analytics and Visualization:** MS Excel, Tableau, ETL, Data Cleaning & Modeling\
-**Project Tools:** JIRA, ServiceNow, MS Project, Agile & Scrum, Workflow Diagrams\
-**Business Analysis:** BRD, Use Cases, SOP Documentation, Gap Analysis, UAT, Stakeholder Analysis.\
-**Process Excellence:** Six Sigma (Green Belt), Lean, ERP Concepts, Forecasting Models, SIPOC, FMEA, VSM.
+**Analytics and Visualization:** MS Excel, Tableau, Power BI, ETL, Data Cleaning & Modeling\
+**Project Tools:** JIRA, MS Project, Agile, Scrum, ServiceNow, Asana, Visio, Workflow Diagrams\
+**Business Analysis:** BRD, Use Cases, KPI, Gap Analysis, User Stories, UAT, Stakeholder Analysis.\
+**Process Excellence:** Six Sigma (Green Belt), Lean, SOP Documentation, ERP Concepts, SIPOC, FMEA, VSM.
   
 ## **📌 Highlights**
   
