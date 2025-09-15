@@ -1,8 +1,8 @@
 # Hi there! Saurabh here 👋  
 
-I'm a data-driven problem solver with over 3 years of experience across analytics, engineering, and business process optimization. Whether it’s forecasting demand, optimizing production, or improving logistics, I enjoy applying analytical methods to deliver measurable results.
+I'm a data-driven problem solver with over 3 years of experience across analytics, engineering, and business process optimization. Whether it’s building dashboards, forecasting demand, optimizing production, or improving logistics, I enjoy applying analytical methods to deliver measurable results.
   
-With a strong foundation in SQL, Tableau, Excel, and Agile delivery, I work at the intersection of technology, data, and business strategy. Recently graduated with Master's at California State University, Northridge, I’ve worked on cross-functional projects involving demand forecasting, system optimization and lean processes.
+With a strong foundation in SQL, Tableau, Excel, and Agile delivery, I work at the intersection of technology, data, and business strategy. Recently graduated with Master's at California State University, Northridge, I’ve worked on cross-functional projects involving system optimization and lean processes.
   
 ## **🔧 Tech Stack & Tools**
   
@@ -19,7 +19,7 @@ With a strong foundation in SQL, Tableau, Excel, and Agile delivery, I work at t
 🧪 Applied statistical forecasting to minimize error in mobile phone demand predictions\
 🛍️ Reduced campus store wait times by 30% via lean process recommendations\
 ❤️ Achieved 95.25% accuracy in a heart disease prediction model using Deep Learning\
-📚 Published research on cardiac prediction models @ ICMISC 2020
+📚 Published research on cardiac prediction models and performance improvement
   
 ## **🤝 Let’s Connect!**
 **🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-patil18/)**\
