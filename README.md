@@ -1,6 +1,6 @@
 # Hi there! Saurabh here 👋  
 
-I'm a data-driven problem solver with over 3 years of experience across analytics, engineering, and business process optimization. Whether it’s building dashboards, forecasting demand, optimizing production, or improving logistics, I enjoy applying analytical methods to deliver measurable results.
+I'm a data-driven problem solver with over 3 years of experience across analytics, project management, and business process optimization. Whether it’s building dashboards, forecasting demand, optimizing production, or improving logistics, I enjoy applying analytical methods to deliver measurable results.
   
 With a strong foundation in SQL, Tableau, Excel, and Agile delivery, I work at the intersection of technology, data, and business strategy. Recently graduated with Master's at California State University, Northridge, I’ve worked on cross-functional projects involving system optimization and lean processes.
   
